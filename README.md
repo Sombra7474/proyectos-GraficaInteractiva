@@ -1,4 +1,4 @@
-## Cosas de clase 
+# Cosas de clase 
 en teoria es el proyecto de final de curso del primer año
 No hay codigo asi que no se chill peñita 
 
